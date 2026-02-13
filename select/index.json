@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Anyone But You",
+  "base_artist": "YENA",
+  "createdAt": "2026-02-13T16:12:36.904731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anyone but You",
+      "artist": "A Place to Bury Strangers",
+      "has_synced": true,
+      "path": "select/01_Anyone_but_You_A_Place_to_Bury_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Anyone But You",
+      "artist": "The Clientele",
+      "has_synced": true,
+      "path": "select/02_Never_Anyone_But_You_The_Clientele.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anyone But You",
+      "artist": "Counting Crows",
+      "has_synced": true,
+      "path": "select/03_Anyone_But_You_Counting_Crows.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Anyone But You (Album Version)",
+      "artist": "Counting Crows",
+      "has_synced": true,
+      "path": "select/04_Anyone_But_You_(Album_Version)_Counting_Crows.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anyone But You",
+      "artist": "Jewel",
+      "has_synced": true,
+      "path": "select/05_Anyone_But_You_Jewel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Anyone But You",
+      "artist": "RX Bandits",
+      "has_synced": false,
+      "path": "select/06_Anyone_But_You_RX_Bandits.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Anyone But You",
+      "artist": "Hinder",
+      "has_synced": true,
+      "path": "select/07_Anyone_But_You_Hinder.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Anyone But You",
+      "artist": "Hawk Nelson",
+      "has_synced": true,
+      "path": "select/08_Anyone_But_You_Hawk_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Anyone (But You)",
+      "artist": "Anthony Russo",
+      "has_synced": true,
+      "path": "select/09_Anyone_(But_You)_Anthony_Russo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Anyone but You",
+      "artist": "BoDeans",
+      "has_synced": true,
+      "path": "select/10_Anyone_but_You_BoDeans.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Natasha Bedingfield - Unwritten (Official Video) (as featured in Anyone But You)",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/11_Natasha_Bedingfield_-_Unwritten_(Official_Video)_(as_featured_in_Anyone_But_You)_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Anyone But You",
+      "artist": "Still Woozy",
+      "has_synced": true,
+      "path": "select/12_Anyone_But_You_Still_Woozy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anyone But You",
+      "artist": "Still Woozy",
+      "has_synced": false,
+      "path": "select/13_Anyone_But_You_Still_Woozy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fates Worse Than Death, Pt I: I Don't Want to Wait out the Apocalypse with Anyone but You",
+      "artist": "Short Fictions",
+      "has_synced": true,
+      "path": "select/14_Fates_Worse_Than_Death,_Pt_I__I_Don't_Want_to_Wait_out_the_Apocalypse_with_Anyon_Short_Fictions.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Unwritten (Official Video) (as featured in Anyone But You)",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/15_Unwritten_(Official_Video)_(as_featured_in_Anyone_But_You)_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Anyone But You (Album Version)",
+      "artist": "Hinder",
+      "has_synced": false,
+      "path": "select/16_Anyone_But_You_(Album_Version)_Hinder.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Anyone But Me",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/17_Anyone_But_Me_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ANYONE BUT ME",
+      "artist": "Steven Wilson",
+      "has_synced": false,
+      "path": "select/18_ANYONE_BUT_ME_Steven_Wilson.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Anyone but Me",
+      "artist": "Citizen Soldier",
+      "has_synced": true,
+      "path": "select/19_Anyone_but_Me_Citizen_Soldier.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Anyone But Me",
+      "artist": "Carly Simon",
+      "has_synced": false,
+      "path": "select/20_Anyone_But_Me_Carly_Simon.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Anyone but Us",
+      "artist": "Jaël",
+      "has_synced": false,
+      "path": "select/21_Anyone_but_Us_Jaël.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Anyone But Me",
+      "artist": "Steven Wilson",
+      "has_synced": true,
+      "path": "select/22_Anyone_But_Me_Steven_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Don't Love Anyone (but You're Not Just Anyone)",
+      "artist": "Peter Doherty",
+      "has_synced": true,
+      "path": "select/23_I_Don't_Love_Anyone_(but_You're_Not_Just_Anyone)_Peter_Doherty.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Don't Love Anyone (but You're Not Just Anyone) V2",
+      "artist": "Peter Doherty",
+      "has_synced": false,
+      "path": "select/24_I_Don't_Love_Anyone_(but_You're_Not_Just_Anyone)_V2_Peter_Doherty.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anyone But You (Feat. MIRYO of Brown Eyed Girls)",
+      "artist": "YENA, Miryo",
+      "has_synced": false,
+      "path": "select/pl_01_Anyone_But_You_(Feat._MIRYO_of_Brown_Eyed_Girls)_YENA,_Miryo.txt"
+    }
+  ]
+}
